@@ -1,4 +1,4 @@
-### Hi [Navis Code][website] here👋
+### Hi [Navis code][website] here👋
 
 
 
@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<!--links>
-[website]:https://wa.me/50363146889
+
+<!--links-->
+[website]: https://wa.me/50363146889
