@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!--links-->
-[website]: https://wa.me/50363146889
+[website]:https://currculum-chi-sable.verecel.app/
